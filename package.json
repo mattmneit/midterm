@@ -1,0 +1,19 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.17.1",
+    "forecast.io": "0.0.11",
+    "morgan": "^1.9.1",
+    "zippity-do-dah": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
